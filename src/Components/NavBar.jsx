@@ -22,6 +22,7 @@ export const NavBar = () => {
                     <button>
                         <img  src="public/cart.svg" alt="Cart" />
                     </button>
+
                 </div>
             </nav>
         </header>
