@@ -88,8 +88,8 @@ const Performance = () => {
                     <span className="text-white">
             gaming feels more immersive and realistic than ever.
           </span>{" "}
-                    And Dynamic Caching optimizes fast on-chip memory to dramatically
-                    increase average GPU utilization — driving a huge performance boost
+                    And Dynamic Caching optimises fast on-chip memory to dramatically
+                    increase average GPU utilisation — driving a huge performance boost
                     for the most demanding pro apps and games.
                 </p>
             </div>
