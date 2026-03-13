@@ -79,7 +79,7 @@ export const features = [
         id: 1,
         icon: "/feature-icon1.svg",
         highlight: "Email AI.",
-        text: "Summarize and draft replies to emails instantly, so you stay on top of your inbox.",
+        text: "Summarise and draft replies to emails instantly, so you stay on top of your inbox.",
         styles: "left-5 md:left-20 top-[20%] opacity-0 translate-y-5",
     },
     {
@@ -92,7 +92,7 @@ export const features = [
     {
         id: 3,
         icon: "/feature-icon3.svg",
-        highlight: "Summarize AI.",
+        highlight: "Summarise AI.",
         text: "Turn long articles, reports, or notes into clear, bite-sized summaries in seconds.",
         styles: "left-5 md:left-20 top-[50%] opacity-0 translate-y-5",
     },
